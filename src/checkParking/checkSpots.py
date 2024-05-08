@@ -68,6 +68,6 @@ def main():
     print("Capturing Video...")
     #Edit this function if you want to check for more QR codes in frame
     captureVideo()
-
+# hi
 
 main()
