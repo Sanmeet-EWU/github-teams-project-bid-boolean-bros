@@ -8,6 +8,9 @@ Nicholas Burlakov<br>
 The project is hosted on Azure and is bulit as a static web app. To access our app, please refer to this link:
 https://icy-smoke-01cf0751e.5.azurestaticapps.net/
 
+Here is link for new GitHub. Follow for progress:
+https://github.com/NicholasBurlakov/Boolean-Bros 
+
 For more references on our deployment, please refer to this link:
 https://learn.microsoft.com/en-us/azure/static-web-apps/getting-started?tabs=vanilla-javascript
 
