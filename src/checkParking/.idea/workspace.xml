@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cc70c24-1c73-40c4-a90f-8396c0c5b369" name="Changes" comment="Check Spots Python">
+      <change afterPath="$PROJECT_DIR$/../login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../register.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkSpots.py" beforeDir="false" afterPath="$PROJECT_DIR$/checkSpots.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +23,7 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -41,21 +46,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.checkSpots.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Check-Spots-Python&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/caleb/OneDrive - Eastern Washington University/Year 3/Spring Q3 2024/CSCD 350/ParkSmart&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.checkSpots.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "#1 on main",
+    "last_opened_file_path": "C:/Users/caleb/OneDrive/Documents/GitHub/Boolean-Bros/flaskwDB",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="checkSpots" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="checkParking" />
@@ -112,6 +118,10 @@
       <workItem from="1715119651092" duration="714000" />
       <workItem from="1715120411379" duration="586000" />
       <workItem from="1715187656840" duration="933000" />
+      <workItem from="1715189642559" duration="82000" />
+      <workItem from="1715277746535" duration="104000" />
+      <workItem from="1716396570554" duration="299000" />
+      <workItem from="1717091101258" duration="174000" />
     </task>
     <task id="LOCAL-00001" summary="Check Spots Python">
       <option name="closed" value="true" />
@@ -129,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715187789116</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Check Spots Python">
+      <option name="closed" value="true" />
+      <created>1715189671089</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715189671089</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,9 +173,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Check Spots Python" />
     <option name="LAST_COMMIT_MESSAGE" value="Check Spots Python" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/checkParking$checkSpots.coverage" NAME="checkSpots Coverage Results" MODIFIED="1714702182879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/checkSpots_py$checkSpots.coverage" NAME="checkSpots Coverage Results" MODIFIED="1715119825153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
