@@ -36,6 +36,6 @@
 2. Change `Run` to `Current File`
 3. Open `app.py`
 4. Click `Run`
-
+5. Go to URL specified in the running console.
 
 
